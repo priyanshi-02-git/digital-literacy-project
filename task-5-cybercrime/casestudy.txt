@@ -1,0 +1,10 @@
+Cybercrime Case Study: UPI Fraud
+
+UPI fraud stands as the most prevalent cybercrime in India which particularly affects students and online users. Scammers use this fraud method to deceive people into disclosing their confidential data and accepting artificial payment demands.
+
+Scammers typically start their attacks by contacting victims through phone calls or text messages while pretending to be bank personnel or customer support representatives. They might claim there is an account issue or they will provide a special offer. The scammers proceed to deliver a payment request while asking the victim to use a QR code for scanning. Users incorrectly assume they will receive payments, yet their UPI PIN entry results in money loss from their accounts.
+
+Scammers predominantly focus on students and elderly individuals because these two groups lack complete understanding of such fraudulent schemes. The results include financial damages, emotional distress, and diminished confidence in digital platforms.
+
+Lack of awareness enables this fraud method to propagate throughout society. Users need to learn they must keep their UPI PIN confidential and that unknown QR code scanning presents security risks.
+
