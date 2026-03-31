@@ -1,0 +1,1 @@
+This folder includes proof of completing a coding certification on HackerRank and creating a Google Form quiz along with its responses. These tools help in improving technical and collaboration skills.
