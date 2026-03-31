@@ -10,7 +10,7 @@ Name: Priyanshi Prajapati
 
 Registration Number: 25BAI10054
 
-Branch: B. Tech (Artificial Intelligence \& Machine Learning)  
+Branch: B.Tech (Artificial Intelligence \& Machine Learning)  
 
 Year: 1st Year  
 
